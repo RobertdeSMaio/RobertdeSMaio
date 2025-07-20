@@ -1,4 +1,4 @@
-# "(PT-BR) Olá, tudo bem? Aqui está um resumo breve do que eu tenho feito.
+# (PT-BR) Olá, tudo bem? Aqui está um resumo breve do que eu tenho feito.
 
 Técnico em Automação e Field Service com experiência sólida em manutenção de equipamentos, suporte em TI, sistemas de automação e infraestrutura de lojas. Atualmente atuando no Grupo Coutinho, onde realizo a manutenção de equipamentos de informática, configuração de softwares, implementação de sistemas em unidades comerciais e suporte técnico presencial, com domínio em servidores, Windows, pacote Office e ferramentas de acesso remoto.
 
