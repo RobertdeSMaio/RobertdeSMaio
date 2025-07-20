@@ -1,10 +1,16 @@
-# _Olá, sou Robert_, atualmente busco aumentar meu conhecimento pelo mundo da tecnologia.
+# Olá, tudo bem?
 
-Construí alguns projetos com algumas linguagens que tenho conhecimento e desejo aprimorar e afinar muito mais minhas habilidades.
+# Aqui está um resumo breve do que eu tenho feito.
 
-Sigo estudando C# utilizando em ASP.NET, API REST e TDD visando aprender mais sobre o backend e JavaScript utilizando a biblioteca ReactJS aplicando typescript para aprender mais sobre o frontend, utilizo integrações com banco de dados SQL ( MySQL, SQLServer ) e NoSQL ( MongoDB ).
+Técnico em Automação e Field Service com experiência sólida em manutenção de equipamentos, suporte em TI, sistemas de automação e infraestrutura de lojas. Atualmente atuando no Grupo Coutinho, onde realizo a manutenção de equipamentos de informática, configuração de softwares, implementação de sistemas em unidades comerciais e suporte técnico presencial, com domínio em servidores, Windows, pacote Office e ferramentas de acesso remoto.
 
-Já desenvolvi em Java, Python, C e C++ em praticas universitárias_   
+Possuo um histórico de quatro anos no Exército Brasileiro, onde desempenhei funções administrativas, técnicas e operacionais. Fui responsável por apoio à área de informática do batalhão, operação de servidores e controle de documentação. Tenho conhecimento em ferramentas como MySQL, XenServer, e habilidades em manutenção, configuração de sistemas e suporte técnico. Atuei também como motorista militar e operador de comboio, demonstrando disciplina, organização e capacidade de liderança.
+
+Iniciei minha trajetória profissional no setor varejista, adquirindo experiência com organização de estoque, precificação e atendimento. 
+
+Profissional dinâmico, proativo e comprometido, com forte orientação a resultados e capacidade de atuação em campo com carro ou moto.
+
+
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=robertdesmaio&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=robertdesmaio&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 [![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://beacons.ai/robertsmaio)
