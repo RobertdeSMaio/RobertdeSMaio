@@ -1,22 +1,22 @@
 # (PT-BR) Olá, tudo bem? Aqui está um resumo breve do que eu tenho feito.
 
-Técnico em Automação e Field Service com experiência sólida em manutenção de equipamentos, suporte em TI, sistemas de automação e infraestrutura de lojas. Atualmente atuando no Grupo Coutinho, onde realizo a manutenção de equipamentos de informática, configuração de softwares, implementação de sistemas em unidades comerciais e suporte técnico presencial, com domínio em servidores, Windows, pacote Office e ferramentas de acesso remoto.
+Técnico em Suporte de TI, com sólida experiência em manutenção de equipamentos, infraestrutura de redes, suporte técnico e implementação de sistemas. Atualmente no Grupo Coutinho, atuando no suporte remoto e presencial a usuários, manutenção de servidores, impressoras, coletores e PDVs, além do gerenciamento de contas via Active Directory e Consinco (TOTVS).
 
-Possuo um histórico de quatro anos no Exército Brasileiro, onde desempenhei funções administrativas, técnicas e operacionais. Fui responsável por apoio à área de informática do batalhão, operação de servidores e controle de documentação. Tenho conhecimento em ferramentas como MySQL, XenServer, e habilidades em manutenção, configuração de sistemas e suporte técnico. Atuei também como motorista militar e operador de comboio, demonstrando disciplina, organização e capacidade de liderança.
+Anteriormente, trabalhei como Técnico de Automação e Field Service, com foco em implantação de sistemas, manutenção de CFTV, configuração de softwares e atendimento em campo. Possuo ampla vivência em sistemas operacionais Windows e Linux, pacote Office, servidores e ferramentas de acesso remoto como UltraVNC e TeamViewer.
 
-Iniciei minha trajetória profissional no setor varejista, adquirindo experiência com organização de estoque, precificação e atendimento. 
+No Exército Brasileiro, atuei durante quatro anos em funções administrativas, técnicas e operacionais, com destaque para o suporte à área de informática, operação de servidores e condução de veículos militares em diferentes missões, desenvolvendo competências como organização, disciplina, resiliência e liderança.
 
-Profissional dinâmico, proativo e comprometido, com forte orientação a resultados e capacidade de atuação em campo com carro ou moto.
+Minha trajetória profissional teve início no varejo, adquirindo experiência em logística, estoque e precificação. Sou um profissional proativo, adaptável e orientado a resultados, com facilidade para atuar em ambientes dinâmicos, presenciais e em campo.
 
 # (EN) Hello, how are you? Here is a brief summary of what I have been doing.
 
-Automation and Field Service Technician with solid experience in equipment maintenance, IT support, automation systems and store infrastructure. Currently working at Grupo Coutinho, where I perform maintenance of IT equipment, software configuration, system implementation in commercial units and on-site technical support, with expertise in servers, Windows, Office suite and remote access tools.
+IT Support Technician with solid experience in equipment maintenance, network infrastructure, technical support, and systems implementation. Currently at the Coutinho Group, I provide remote and on-site user support, server, printer, collector, and POS maintenance, as well as account management via Active Directory and Consinco (TOTVS).
 
-I have four years of experience in the Brazilian Army, where I performed administrative, technical and operational functions. I was responsible for supporting the battalion's IT area, operating servers and controlling documentation. I have knowledge of tools such as MySQL, XenServer, and skills in maintenance, system configuration and technical support. I also worked as a military driver and convoy operator, demonstrating discipline, organization and leadership skills.
+Previously, I worked as an Automation and Field Service Technician, focusing on system implementation, CCTV maintenance, software configuration, and field service. I have extensive experience with Windows and Linux operating systems, the Office suite, servers, and remote access tools such as UltraVNC and TeamViewer.
 
-I began my professional career in the retail sector, gaining experience in inventory organization, pricing and customer service.
+In the Brazilian Army, I served for four years in administrative, technical, and operational roles, focusing on IT support, server operation, and driving military vehicles on various missions, developing skills such as organization, discipline, resilience, and leadership.
 
-Dynamic, proactive and committed professional, with a strong focus on results and the ability to work in the field with a car or motorcycle.
+My professional career began in retail, where I gained experience in logistics, inventory, and pricing. I am a proactive, adaptable, and results-oriented professional, with ease working in dynamic environments, both in-person and in the field.
 
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=robertdesmaio&show_icons=true&theme=radical)
