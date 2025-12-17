@@ -1,22 +1,50 @@
 # (PT-BR) Olá, tudo bem? Aqui está um resumo breve do que eu tenho feito.
 
-Técnico em Suporte de TI, com sólida experiência em manutenção de equipamentos, infraestrutura de redes, suporte técnico e implementação de sistemas. Atualmente no Grupo Coutinho, atuando no suporte remoto e presencial a usuários, manutenção de servidores, impressoras, coletores e PDVs, além do gerenciamento de contas via Active Directory e Consinco (TOTVS).
+Sou profissional de TI com experiência sólida em suporte técnico, sustentação, automação e infraestrutura, atuando na resolução de problemas, implementação de sistemas e apoio a usuários em ambientes de alta demanda. Atualmente, faço parte da Ágape Consultoria e Grupo Coutinho, prestando suporte a clientes, realizando testes, configurando sistemas, documentando ocorrências e apoiando diretamente a equipe de desenvolvimento na melhoria contínua dos produtos.
 
-Anteriormente, trabalhei como Técnico de Automação e Field Service, com foco em implantação de sistemas, manutenção de CFTV, configuração de softwares e atendimento em campo. Possuo ampla vivência em sistemas operacionais Windows e Linux, pacote Office, servidores e ferramentas de acesso remoto como UltraVNC e TeamViewer.
+Ao longo da minha trajetória, passei por áreas como Field Service, automação, manutenção de equipamentos, servidores, redes, CFTV, Active Directory, TOTVS (Consinco), gerenciamento de chamados e infraestrutura geral. Também possuo forte experiência prática em ferramentas de acesso remoto, ambientes Windows e Linux, e operação de servidores.
 
-No Exército Brasileiro, atuei durante quatro anos em funções administrativas, técnicas e operacionais, com destaque para o suporte à área de informática, operação de servidores e condução de veículos militares em diferentes missões, desenvolvendo competências como organização, disciplina, resiliência e liderança.
+Minha formação no Exército Brasileiro, onde atuei por quatro anos, contribuiu para o desenvolvimento de competências essenciais: organização, disciplina, liderança, resiliência e tomada de decisão sob pressão.
 
-Minha trajetória profissional teve início no varejo, adquirindo experiência em logística, estoque e precificação. Sou um profissional proativo, adaptável e orientado a resultados, com facilidade para atuar em ambientes dinâmicos, presenciais e em campo.
+Paralelamente, estou aprofundando minha carreira em desenvolvimento de software, com foco em:
+
+C# / .NET
+
+React.js e JavaScript
+
+SQL e NoSQL
+
+Git e práticas de versionamento
+
+Desenvolvimento de projetos próprios (C#, Java)
+
+Sou motivado por desafios, aprendizado contínuo e pela oportunidade de unir minha experiência em suporte com minha crescente atuação no desenvolvimento, buscando sempre entregar valor, eficiência e resultados reais.
+
+📌 Objetivo: crescer como Analista de Sistemas ou Desenvolvedor de Software, contribuindo em equipes que valorizem inovação, qualidade e evolução constante.
 
 # (EN) Hello, how are you? Here is a brief summary of what I have been doing.
 
-IT Support Technician with solid experience in equipment maintenance, network infrastructure, technical support, and systems implementation. Currently at the Coutinho Group, I provide remote and on-site user support, server, printer, collector, and POS maintenance, as well as account management via Active Directory and Consinco (TOTVS).
+I am an IT professional with solid experience in technical support, system sustainment, automation, and infrastructure, working in troubleshooting, system implementation, and user support in fast-paced environments. I am currently part of Ágape Consultoria and Grupo Coutinho, providing client support, performing tests, configuring systems, documenting incidents, and collaborating with the development team to improve product performance and reliability.
 
-Previously, I worked as an Automation and Field Service Technician, focusing on system implementation, CCTV maintenance, software configuration, and field service. I have extensive experience with Windows and Linux operating systems, the Office suite, servers, and remote access tools such as UltraVNC and TeamViewer.
+Throughout my career, I have worked in Field Service, automation, equipment maintenance, servers, networks, CFTV, Active Directory, TOTVS (Consinco), ticket management, and general infrastructure. I also have strong hands-on experience with remote access tools, Windows and Linux environments, and server operations.
 
-In the Brazilian Army, I served for four years in administrative, technical, and operational roles, focusing on IT support, server operation, and driving military vehicles on various missions, developing skills such as organization, discipline, resilience, and leadership.
+My background in the Brazilian Army, where I served for four years, helped me develop essential skills such as organization, discipline, leadership, resilience, and decision-making under pressure.
 
-My professional career began in retail, where I gained experience in logistics, inventory, and pricing. I am a proactive, adaptable, and results-oriented professional, with ease working in dynamic environments, both in-person and in the field.
+At the same time, I am expanding my career into software development, focusing on:
+
+C# / .NET
+
+React.js and JavaScript
+
+SQL and NoSQL
+
+Git and version control practices
+
+Personal development projects (C#, Java)
+
+I am motivated by challenges, continuous learning, and the opportunity to combine my support background with my growing development expertise—always aiming to deliver value, efficiency, and real results.
+
+📌 Career Goal: to grow as a Systems Analyst or Software Developer, contributing to teams that value innovation, quality, and continuous improvement.
 
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=robertdesmaio&show_icons=true&theme=radical)
