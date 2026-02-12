@@ -48,7 +48,5 @@ I am motivated by challenges, continuous learning, and the opportunity to combin
 
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=robertdesmaio&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=robertdesmaio&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://beacons.ai/robertsmaio)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robert-de-s-maio/)
 
