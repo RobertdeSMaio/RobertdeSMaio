@@ -1,50 +1,38 @@
 # (PT-BR) Olá, tudo bem? Aqui está um resumo breve do que eu tenho feito.
 
-Sou profissional de TI com experiência sólida em suporte técnico, sustentação, automação e infraestrutura, atuando na resolução de problemas, implementação de sistemas e apoio a usuários em ambientes de alta demanda. Atualmente, faço parte da Ágape Consultoria e Grupo Coutinho, prestando suporte a clientes, realizando testes, configurando sistemas, documentando ocorrências e apoiando diretamente a equipe de desenvolvimento na melhoria contínua dos produtos.
+Com uma trajetória sólida em TI e Infraestrutura, atuo na resolução de problemas complexos, sustentação de sistemas e apoio direto ao desenvolvimento. Atualmente, na Ágape Consultoria e no Grupo Coutinho, foco em garantir a estabilidade de produtos digitais através de testes de QA, manipulação de JSON e suporte técnico especializado.
 
-Ao longo da minha trajetória, passei por áreas como Field Service, automação, manutenção de equipamentos, servidores, redes, CFTV, Active Directory, TOTVS (Consinco), gerenciamento de chamados e infraestrutura geral. Também possuo forte experiência prática em ferramentas de acesso remoto, ambientes Windows e Linux, e operação de servidores.
+Minha base técnica foi construída através de experiências em Field Service, Automação e Administração de Redes, gerenciando ambientes Windows/Linux, servidores e ferramentas como Active Directory e ERP TOTVS (Consinco). Essa bagagem me permite ter uma visão 360° do ciclo de vida de um software, desde a infraestrutura até a experiência do usuário final.
 
-Minha formação no Exército Brasileiro, onde atuei por quatro anos, contribuiu para o desenvolvimento de competências essenciais: organização, disciplina, liderança, resiliência e tomada de decisão sob pressão.
+Diferencial Militar: Servi por 4 anos no Exército Brasileiro, onde consolidei competências críticas de liderança, disciplina rigorosa, resiliência e a capacidade de tomar decisões rápidas sob pressão — habilidades que aplico diariamente na resolução de incidentes críticos de TI.
 
-Paralelamente, estou aprofundando minha carreira em desenvolvimento de software, com foco em:
+Foco Tecnológico & Desenvolvimento: Atualmente, direciono minha carreira para o desenvolvimento de soluções robustas, com foco nas seguintes tecnologias:
 
-C# / .NET
+Back-end: C# / .NET;
 
-React.js e JavaScript
+Front-end: React.js e JavaScript;
 
-SQL e NoSQL
+Dados: SQL, NoSQL, Power BI, Ciência de Dados e Python (Pós-graduação em curso);
 
-Git e práticas de versionamento
-
-Desenvolvimento de projetos próprios (C#, Java)
-
-Sou motivado por desafios, aprendizado contínuo e pela oportunidade de unir minha experiência em suporte com minha crescente atuação no desenvolvimento, buscando sempre entregar valor, eficiência e resultados reais.
-
-📌 Objetivo: crescer como Analista de Sistemas ou Desenvolvedor de Software, contribuindo em equipes que valorizem inovação, qualidade e evolução constante.
+DevOps/Ferramentas: Git, Versionamento, JSON, Ambientes Virtualizados.
 
 # (EN) Hello, how are you? Here is a brief summary of what I have been doing.
 
-I am an IT professional with solid experience in technical support, system sustainment, automation, and infrastructure, working in troubleshooting, system implementation, and user support in fast-paced environments. I am currently part of Ágape Consultoria and Grupo Coutinho, providing client support, performing tests, configuring systems, documenting incidents, and collaborating with the development team to improve product performance and reliability.
+With a solid background in IT Infrastructure and Systems Sustainability, I specialize in complex problem-solving, system maintenance, and providing direct support to development teams. Currently, at Ágape Consultoria and Grupo Coutinho, I focus on ensuring software stability through QA testing, JSON manipulation, and specialized technical support.
 
-Throughout my career, I have worked in Field Service, automation, equipment maintenance, servers, networks, CFTV, Active Directory, TOTVS (Consinco), ticket management, and general infrastructure. I also have strong hands-on experience with remote access tools, Windows and Linux environments, and server operations.
+My technical foundation was built through extensive experience in Field Service, Automation, and Network Administration, managing Windows/Linux environments, servers, and enterprise tools such as Active Directory and TOTVS (Consinco) ERP. This background allows me to have a 360° view of the software lifecycle, from infrastructure to the end-user experience.
 
-My background in the Brazilian Army, where I served for four years, helped me develop essential skills such as organization, discipline, leadership, resilience, and decision-making under pressure.
+Military Background: I served for 4 years in the Brazilian Army, where I consolidated critical soft skills: leadership, rigorous discipline, resilience, and the ability to make rapid decisions under pressure—skills I apply daily when handling critical IT incidents.
 
-At the same time, I am expanding my career into software development, focusing on:
+Technical Focus & Development: Currently, I am pivoting my career toward building robust technological solutions, focusing on the following stack:
 
-C# / .NET
+Back-end: C# / .NET;
 
-React.js and JavaScript
+Front-end: React.js, JavaScript;
 
-SQL and NoSQL
+Data: SQL, NoSQL, Power BI, Data Science and Python (Post-graduate studies in progress);
 
-Git and version control practices
-
-Personal development projects (C#, Java)
-
-I am motivated by challenges, continuous learning, and the opportunity to combine my support background with my growing development expertise—always aiming to deliver value, efficiency, and real results.
-
-📌 Career Goal: to grow as a Systems Analyst or Software Developer, contributing to teams that value innovation, quality, and continuous improvement.
+DevOps & Tools: Git, Versioning, JSON, and Virtualized Environments.
 
 
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=robertdesmaio&show_icons=true&theme=radical)
